@@ -98,12 +98,7 @@ int main() {
                     //remprompt the  user with another prompting statement
                 }
             }
-
-        //cout << "Your input was " << choice <<  " choose correctly";
     }
-    // cout << Triangle(2,4) << endl;
-    // cout << Rectangle(2,4) << endl;
-    // cout << Square(2) << endl;
     
 
     }    return 0;
